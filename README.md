@@ -1,5 +1,10 @@
 # lo
-# make this folder
-# lo file !
-# so nice 
-# AA art dude!
+lol    hahahahahahahahahahahahaha
+
+       ^ - ^
+     (' n ' )
+    O ={===}O
+     |:::::\\    
+     |::::::\\ 
+wwwwwwJ,,,,,((@)wwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwww
