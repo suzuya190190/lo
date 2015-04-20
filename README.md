@@ -11,7 +11,7 @@ wwwwwwwwwwwwwwwwwwwwwwwwww
 
 How to use it
 
-1. clone or git clone this file
+1. downroad or git clone this file
 
 2. cd this root derectory
 
