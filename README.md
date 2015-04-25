@@ -11,18 +11,11 @@ wwwwwwwwwwwwwwwwwwwwwwwwww
 
 How to use it
 
-1. downroad or git clone this file
+1. download or git clone this file
 
-2. cd this root derectory
+2. make this file !!!!
 
-3. use  make command 
+3. your PC move AA art 
 
-4. be produces lo!
-
-5. if yout PC is Mac OS X  use mv lo /usr/bin
-
-6. you PC can use lo command 
-
-7.AWSOME nice ART! 
 
 
