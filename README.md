@@ -21,17 +21,5 @@ but!!!!! click lo
 
 run lo!
 
-lolbut!!!!! click lo 
-
-run lo!
-
-lolbut!!!!! click lo 
-
-run lo!
-
-lolbut!!!!! click lo 
-
-run lo!
-
-lol
+lol!
 
