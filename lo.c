@@ -10,7 +10,6 @@
 #include <unistd.h>
 #include "lo.h"
 
-void add_com(int y, int x);
 int add_lol(int x);
 void option(char *str);
 int move_str(int y, int x, char *str);
@@ -81,14 +80,4 @@ int add_lol(int x)
         move_str(y + i, x, shi_c[i]);
     }
     return OK;
-}
-
-void add_com(int y, int x)
-{
-    static char *com[2][2] = {{"shiChimiTouCarashi ", "(O)"}, {"lol", "\\O/"}};
-    int i;
-
-    for (i = 0; i < 2; ++i) {
-        move_str(y + i, x, com[(84 + x) / 12 % 2][i]);
-    }
 }
