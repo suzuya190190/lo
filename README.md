@@ -17,5 +17,21 @@ How to use it
 
 3. your PC move AA art 
 
+but!!!!! click lo 
 
+run lo!
+
+lolbut!!!!! click lo 
+
+run lo!
+
+lolbut!!!!! click lo 
+
+run lo!
+
+lolbut!!!!! click lo 
+
+run lo!
+
+lol
 
